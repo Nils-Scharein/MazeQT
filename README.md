@@ -8,7 +8,7 @@ This project is an evolution of the original SFML-based project [Maze_Generator_
 
 Here's an animated preview of how the application works:
 
-![MazeQT Demo](./Demo/Generation.gif) <!-- Replace the path to the GIF if needed -->
+![MazeQT Demo](./Demo/Generation.gif)
 
 ## Highlights
 
