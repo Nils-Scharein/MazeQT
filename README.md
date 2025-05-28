@@ -2,7 +2,7 @@
 
 **MazeQT** ist eine interaktive Desktop-Anwendung zur Erstellung und Visualisierung von Labyrinthen, entwickelt in **C++** mit **Qt**.
 
-Dieses Projekt ist die Weiterentwicklung des ursprünglichen SFML-Projekts [Uebung_C--](https://github.com/Nils-Scharein/Uebung_C--) und wurde mit einem modernen GUI-Ansatz neu aufgebaut.
+Dieses Projekt ist die Weiterentwicklung des ursprünglichen SFML-Projekts [Uebung_C--](https://github.com/Nils-Scharein/Maze_Generator_Solver) und wurde mit einem modernen GUI-Ansatz neu aufgebaut.
 
 ## Vorschau
 
